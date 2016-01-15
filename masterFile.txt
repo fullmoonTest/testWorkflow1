@@ -3,4 +3,5 @@ MASTER branch
 - file to be changed in development
 
 
-— feature2 branch
+—- feature2 branch
+- devB can make changes based on head-dev’s code review
