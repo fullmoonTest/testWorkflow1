@@ -1,3 +1,6 @@
 MASTER branch
 - created initial file masterFile.txt
 - file to be changed in development
+
+version_1.0
+—- feature1 branch
