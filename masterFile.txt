@@ -2,6 +2,10 @@ MASTER branch
 - created initial file masterFile.txt
 - file to be changed in development
 
+version_1.0
+—- feature1 branch
+- additional changes made for PR
+
 
 —- feature2 branch
 - devB can make changes based on head-dev’s code review
